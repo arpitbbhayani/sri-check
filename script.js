@@ -1,3 +1,3 @@
 function run() {
-  document.write("script loaded");
+  document.write("malicious script loaded");
 }
